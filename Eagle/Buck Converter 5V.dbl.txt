@@ -1,0 +1,9 @@
+Partlist exported from D:/Users/Phaedra/Desktop/github/Electrical-Library-Parts/Eagle/Buck Converter 5V.dbl.sch at 21/12/2019 18:27
+
+Part Value             Device            Package          Description                   BUILT_BY    COPYRIGHT                                                   MANUFACTURER_PART_NUMBER VENDOR            
+C1   UVR1E221MPD1TD    UVR1E221MPD1TD    U1-M                                           EMA_UL_Team                                                             UVR1E221MPD1TD           Nichicon          
+C2   UHD1E681MPD       UHD1E681MPD       CAP_UAQ_10X20                                  EMA_Cory    Copyright (C) 2018 Accelerated Designs. All rights reserved UHD1E681MPD              Nichicon          
+CR1  1N5822            1N5822            DO-201AD                                       EMA_UL_Team                                                             1N5822                   STMicroelectronics
+L1   PM5022-330M-RC    PM5022-330M-RC    IND_PM5022                                     EMA_UL_Team                                                             PM5022-330M-RC           Bourns Electronics
+U$1  XT30_RIGHT_ANGLE  XT30_RIGHT_ANGLE  XT30_RIGHT_ANGLE XT30 PW Right Angle Connector                                                                                                                    
+U1   LM2596SX-5.0/NOPB LM2596SX-5.0/NOPB TS5B                                           EMA_UL_Team                                                             LM2596SX-5.0/NOPB        Texas Instruments 
